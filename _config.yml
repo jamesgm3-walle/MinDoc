@@ -1,6 +1,6 @@
-title: MinDoc Template # You will insert your title here.
-email: your-email@example.com
-description: by Authors # Author names go here.
+title: James Tutorial Website
+email: jamesgm3@illinois.edu
+description: by James Monahan
 
 baseurl: "/MinDoc" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
 
