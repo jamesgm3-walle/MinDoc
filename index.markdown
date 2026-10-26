@@ -4,15 +4,7 @@ layout: single_page
 
 # Introduction
 
-Word count: 250–450 words
-
-This is the first written element of an edition: the first content readers encounter.
-
-The purpose of this introduction is to set the scene: to provide an initial description of the source as well as an overview your edition, highlighting its features and supplements. This is not a space for much detail about the source or our editorial work with it. Later sections will allow you to do that. Here, your job is to help readers understand that they are looking at a digital edition of a historical source and why that source is interesting.
-
-The premium is on precise, no-nonsense prose.
-
-At bottom, you should include:
+Website built and published by James Monahan for UIUC Sourcelab, in an attempt to learn how to publish websites using Github. I have included a picture of a hummingbird here for practice to learn how to use certain elements of github. 
 
 **How to Cite:**
 Here, provide a citation using this model:
